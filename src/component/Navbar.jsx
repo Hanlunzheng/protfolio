@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <img className="w-[80px]" src={Logo} alt="logo" />
+        <span className="text-pink-300 text-xl">Hanlun</span>
       </div>
       {/* {main menu} */}
       <ul className="hidden md:flex">

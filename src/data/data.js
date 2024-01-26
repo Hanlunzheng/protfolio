@@ -2,6 +2,7 @@ import Commercial from "../assets/projects/commercialpage.png";
 import blog from "../assets/projects/personalblog.png";
 import food from "../assets/projects/fooddeliveryapp.png";
 import social from "../assets/projects/blogpage.png";
+import bank from "../assets/projects/backTracker.png";
 
 export const data = [
   {
@@ -31,5 +32,12 @@ export const data = [
     image: blog,
     github: "https://github.com/Hanlunzheng/blog",
     live: "https://blog-l9vbi4bds-hanlunzhengs-projects.vercel.app/",
+  },
+  {
+    id: 5,
+    name: "Bank tracking demo",
+    image: bank,
+    github: "https://github.com/Hanlunzheng/bankAccount-tracker",
+    live: "https://expense-tracker-70b1a.web.app",
   },
 ];

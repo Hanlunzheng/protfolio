@@ -24,7 +24,7 @@ const Work = () => {
               key={index}
               style={{
                 backgroundImage: `url(${item.image})`,
-                backgroudSize: "cover",
+                backgroundSize: "cover",
                 backgroundPosition: "center",
                 height: "200px", // Set a specific height for the container
                 width: "100%", // Set width to 100% or adjust as needed
