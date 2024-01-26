@@ -1,8 +1,11 @@
 import Commercial from "../assets/projects/commercialpage.png";
-import blog from "../assets/projects/personalblog.png";
-import food from "../assets/projects/fooddeliveryapp.png";
+// import blog from "../assets/projects/personalblog.png";
+
+import foodpage from "../assets/projects/foodpage.png";
+import food from "../assets/projects/food.png";
 import social from "../assets/projects/blogpage.png";
 import bank from "../assets/projects/backTracker.png";
+// import Fiverr from "../assets/projects/";
 
 export const data = [
   {
@@ -28,10 +31,10 @@ export const data = [
   },
   {
     id: 4,
-    name: "User blog",
-    image: blog,
-    github: "https://github.com/Hanlunzheng/blog",
-    live: "https://blog-l9vbi4bds-hanlunzhengs-projects.vercel.app/",
+    name: "food page",
+    image: foodpage,
+    github: "https://github.com/Hanlunzheng/foodpage",
+    live: "https://hanlunzheng.github.io/foodpage/",
   },
   {
     id: 5,
@@ -40,4 +43,11 @@ export const data = [
     github: "https://github.com/Hanlunzheng/bankAccount-tracker",
     live: "https://expense-tracker-70b1a.web.app",
   },
+  // {
+  //   id: 6,
+  //   name: "Fiverr",
+  //   image: "",
+  //   github: "https://github.com/Hanlunzheng/bankAccount-tracker",
+  //   live: "https://expense-tracker-70b1a.web.app",
+  // },
 ];
