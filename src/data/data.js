@@ -5,6 +5,7 @@ import foodpage from "../assets/projects/foodpage.png";
 import food from "../assets/projects/food.png";
 import social from "../assets/projects/blogpage.png";
 import bank from "../assets/projects/backTracker.png";
+import movie from "../assets/projects/moviesRating.png"
 // import Fiverr from "../assets/projects/";
 
 export const data = [
@@ -42,6 +43,13 @@ export const data = [
     image: bank,
     github: "https://github.com/Hanlunzheng/bankAccount-tracker",
     live: "https://expense-tracker-70b1a.web.app",
+  },
+  {
+    id: 6,
+    name: "Fetching data from API",
+    image: movie,
+    github: "https://github.com/Hanlunzheng/Movierating",
+    live: "https://hanlunzheng.github.io/protfolio/",
   },
   // {
   //   id: 6,

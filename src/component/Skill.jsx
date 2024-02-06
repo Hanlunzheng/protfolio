@@ -8,6 +8,7 @@ import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 import Mongo from "../assets/mongo.png";
+import GoogleCloud from "../assets/google-cloud-icon-1.png"
 
 const Skill = () => {
   return (
@@ -38,8 +39,8 @@ const Skill = () => {
             <p className="my-4">JavaScript</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-[80px] mx-auto" src={Mongo} alt="1" />
-            <p className="my-4">MongoDB</p>
+            <img className="w-[80px] mx-auto mt-3 " src={GoogleCloud} alt="1" />
+            <p className="my-4">GoogleCloud</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-[80px] mx-auto" src={Node} alt="1" />

@@ -34,7 +34,7 @@ const Work = () => {
             >
               {/* Hover effect for images */}
               <div className="opacity-0 group-hover:opacity-100 ">
-                <span className="text-2xl font bold text-rgb(233,122,177) tracking-wider ">
+                <span className="text-2xl font bold text-rgb(23,12,1) tracking-wider ">
                   {item.name}
                 </span>
                 <div className="pt-8 text-center ">
