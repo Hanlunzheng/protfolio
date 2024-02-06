@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/protfolio/static/css/main.f41f0ce5.css",
-    "main.js": "/protfolio/static/js/main.cdf31153.js",
+    "main.css": "/protfolio/static/css/main.7cff1b82.css",
+    "main.js": "/protfolio/static/js/main.94e57be0.js",
+    "static/media/moviesRating.png": "/protfolio/static/media/moviesRating.e25ffa12efb7610ec427.png",
     "static/media/foodpage.png": "/protfolio/static/media/foodpage.6f8aaaf717b6f494697d.png",
     "static/media/food.png": "/protfolio/static/media/food.c88c0a1b1d044576a67c.png",
     "static/media/IMG_3867.JPG": "/protfolio/static/media/IMG_3867.0050cdc191719c19f0fe.JPG",
     "static/media/backTracker.png": "/protfolio/static/media/backTracker.a08c0e3b046c0912c320.png",
     "static/media/blogpage.png": "/protfolio/static/media/blogpage.34113ae15e8eda88bb7f.png",
     "static/media/commercialpage.png": "/protfolio/static/media/commercialpage.1725aa729f563f64fabc.png",
+    "static/media/google-cloud-icon-1.png": "/protfolio/static/media/google-cloud-icon-1.e3c95f14d9c11b3802e9.png",
     "static/media/react.png": "/protfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/protfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/protfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -19,11 +21,11 @@
     "static/media/firebase.png": "/protfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/protfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/protfolio/index.html",
-    "main.f41f0ce5.css.map": "/protfolio/static/css/main.f41f0ce5.css.map",
-    "main.cdf31153.js.map": "/protfolio/static/js/main.cdf31153.js.map"
+    "main.7cff1b82.css.map": "/protfolio/static/css/main.7cff1b82.css.map",
+    "main.94e57be0.js.map": "/protfolio/static/js/main.94e57be0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f41f0ce5.css",
-    "static/js/main.cdf31153.js"
+    "static/css/main.7cff1b82.css",
+    "static/js/main.94e57be0.js"
   ]
 }
