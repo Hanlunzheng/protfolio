@@ -49,13 +49,7 @@ export const data = [
     name: "Fetching data from API",
     image: movie,
     github: "https://github.com/Hanlunzheng/Movierating",
-    live: "https://hanlunzheng.github.io/protfolio/",
+    live: "https://hanlunzheng.github.io/Movierating/",
   },
-  // {
-  //   id: 6,
-  //   name: "Fiverr",
-  //   image: "",
-  //   github: "https://github.com/Hanlunzheng/bankAccount-tracker",
-  //   live: "https://expense-tracker-70b1a.web.app",
-  // },
+ 
 ];
