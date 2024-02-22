@@ -5,9 +5,10 @@ import foodpage from "../assets/projects/foodpage.png";
 import food from "../assets/projects/food.png";
 import social from "../assets/projects/blogpage.png";
 import bank from "../assets/projects/backTracker.png";
-import movie from "../assets/projects/moviesRating.png"
+import movie from "../assets/projects/moviesRating.png";
 // import Fiverr from "../assets/projects/";
-import wordpress from "../assets/projects/wordpress.png"
+import wordpress from "../assets/projects/wordpress.png";
+import chatapp from "../assets/projects/chatapp.png";
 
 export const data = [
   {
@@ -19,10 +20,10 @@ export const data = [
   },
   {
     id: 2,
-    name: "Food delivery Application",
-    image: food,
-    github: "https://github.com/Hanlunzheng/Food-delivery-",
-    live: "https://food-delivery-rose.vercel.app/",
+    name: "Realtime-chatapp",
+    image: chatapp,
+    github: "https://github.com/Hanlunzheng/realtime-chatapp",
+    live: "https://realtime-chatapp-ceev.onrender.com",
   },
   {
     id: 3,
@@ -59,5 +60,4 @@ export const data = [
     github: "https://github.com/Hanlunzheng/Movierating",
     live: "https://hanlunzheng.github.io/Movierating/",
   },
- 
 ];
