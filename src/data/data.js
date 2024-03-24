@@ -4,11 +4,12 @@ import Commercial from "../assets/projects/commercialpage.png";
 import foodpage from "../assets/projects/foodpage.png";
 import food from "../assets/projects/food.png";
 import social from "../assets/projects/blogpage.png";
-import bank from "../assets/projects/backTracker.png";
+// import bank from "../assets/projects/backTracker.png";
 import movie from "../assets/projects/moviesRating.png";
 // import Fiverr from "../assets/projects/";
 import wordpress from "../assets/projects/wordpress.png";
 import chatapp from "../assets/projects/chatapp.png";
+import UMD from "../assets/projects/classnav.png";
 
 export const data = [
   {
@@ -48,10 +49,10 @@ export const data = [
   },
   {
     id: 6,
-    name: "Bank tracking demo",
-    image: bank,
-    github: "https://github.com/Hanlunzheng/bankAccount-tracker",
-    live: "https://expense-tracker-70b1a.web.app",
+    name: "UMD class navigation",
+    image: UMD,
+    github: "https://github.com/anis105/gtg",
+    live: "https://anis105.github.io/gtg/",
   },
   {
     id: 7,
