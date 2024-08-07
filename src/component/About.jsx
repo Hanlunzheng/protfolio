@@ -1,5 +1,6 @@
 import React from "react";
 import Myimage from "../assets/IMG_0481.JPG";
+import Linkedin from "../assets/IMG_6183 2.jpg";
 
 const About = () => {
   return (
@@ -7,7 +8,7 @@ const About = () => {
       <div className="flex flex-col justify-center items-center w-full h-full">
         <img
           className="w-[240px] flex justify-center items-center py-5 rounded-full sm:w-[380px]"
-          src={Myimage}
+          src={Linkedin}
           alt="selfy"
         />
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">

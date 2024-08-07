@@ -1,4 +1,5 @@
 import Commercial from "../assets/projects/commercialpage.png";
+import book from "../assets/projects/onlinestore.png";
 // import blog from "../assets/projects/personalblog.png";
 
 import foodpage from "../assets/projects/foodpage.png";
@@ -14,10 +15,10 @@ import UMD from "../assets/projects/classnav.png";
 export const data = [
   {
     id: 1,
-    name: "WordPress",
-    image: wordpress,
-    github: "https://github.com/Hanlunzheng",
-    live: "https://aaronfangtry.com/",
+    name: "",
+    image: book,
+    github: "https://github.com/Hanlunzheng/bookstore",
+    live: "https://hanlunzheng.github.io/bookstore/",
   },
   {
     id: 2,
@@ -28,7 +29,7 @@ export const data = [
   },
   {
     id: 3,
-    name: "Commercial landing page",
+    name: "Commercial page",
     image: Commercial,
     github: "https://github.com/Hanlunzheng/commerciallist/tree/main",
     live: "https://hanlunzheng.github.io/commerciallist/",
@@ -40,13 +41,13 @@ export const data = [
   //   github: "https://github.com/Hanlunzheng/social-media-app",
   //   live: "http://social-media-qu3uxed63-hanlunzhengs-projects.vercel.app",
   // },
-  {
-    id: 5,
-    name: "food page",
-    image: foodpage,
-    github: "https://github.com/Hanlunzheng/foodpage",
-    live: "https://hanlunzheng.github.io/foodpage/",
-  },
+  // {
+  //   id: 5,
+  //   name: "food page",
+  //   image: foodpage,
+  //   github: "https://github.com/Hanlunzheng/foodpage",
+  //   live: "https://hanlunzheng.github.io/foodpage/",
+  // },
   {
     id: 6,
     name: "UMD class navigation",

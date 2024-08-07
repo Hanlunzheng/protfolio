@@ -40,9 +40,10 @@ const Navbar = () => {
         </li>
         <li className="px-4 cursor-pointer">
           <Link to="work" smooth={true} duration={500}>
-            Work
+            My Work
           </Link>
         </li>
+
         <li className="px-4 cursor-pointer">
           <Link to="contact" smooth={true} duration={500}>
             Contact
@@ -91,15 +92,15 @@ const Navbar = () => {
       </ul>
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
-          {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-110px] hover:ml-[-1px] duration-300 bg-blue-600">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-110px] hover:ml-[-1px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/hanlun-zheng-657090239/"
             >
               Linkedin
               <FaLinkedin size={30} />
             </a>
-          </li> */}
+          </li>
           {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-110px] hover:ml-[-1px] duration-300 bg-green-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
