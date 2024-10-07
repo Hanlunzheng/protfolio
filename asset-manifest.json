@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protfolio/static/css/main.7cff1b82.css",
-    "main.js": "/protfolio/static/js/main.df81f441.js",
+    "main.js": "/protfolio/static/js/main.7c16a43d.js",
     "static/media/moviesRating.png": "/protfolio/static/media/moviesRating.e25ffa12efb7610ec427.png",
     "static/media/foodpage.png": "/protfolio/static/media/foodpage.6f8aaaf717b6f494697d.png",
     "static/media/Mininger.png": "/protfolio/static/media/Mininger.e19788b092606f1955ab.png",
@@ -9,7 +9,9 @@
     "static/media/food.png": "/protfolio/static/media/food.c88c0a1b1d044576a67c.png",
     "static/media/chatapp.png": "/protfolio/static/media/chatapp.8f3d77b929eb8ed0497c.png",
     "static/media/Trashremoval.png": "/protfolio/static/media/Trashremoval.251985b36e66c0d0e01f.png",
+    "static/media/ecommerce.png": "/protfolio/static/media/ecommerce.20d5db83f65e17c105d7.png",
     "static/media/blogpage.png": "/protfolio/static/media/blogpage.34113ae15e8eda88bb7f.png",
+    "static/media/NBA.png": "/protfolio/static/media/NBA.b1760e36b127755e52d6.png",
     "static/media/IMG_6183 2.jpg": "/protfolio/static/media/IMG_6183 2.2afcb9f4bc5463f5a040.jpg",
     "static/media/littleChinacafe.png": "/protfolio/static/media/littleChinacafe.16beaaf86b6efaa85ee5.png",
     "static/media/Dumpsterrental.png": "/protfolio/static/media/Dumpsterrental.8360f3cb91493cc8a9f1.png",
@@ -31,10 +33,10 @@
     "static/media/javascript.png": "/protfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/protfolio/index.html",
     "main.7cff1b82.css.map": "/protfolio/static/css/main.7cff1b82.css.map",
-    "main.df81f441.js.map": "/protfolio/static/js/main.df81f441.js.map"
+    "main.7c16a43d.js.map": "/protfolio/static/js/main.7c16a43d.js.map"
   },
   "entrypoints": [
     "static/css/main.7cff1b82.css",
-    "static/js/main.df81f441.js"
+    "static/js/main.7c16a43d.js"
   ]
 }
